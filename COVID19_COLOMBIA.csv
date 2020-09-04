@@ -1,4 +1,4 @@
-Fecha,Casos_Diagnostico,Casos_Recuperado,Casos_Muerte,Casos_Activos,Tasa_Contagio,Tasa_Recuperacion,Tasa_Muerte,Pais_,Ciudad
+Fecha,Casos_Diagnostico,Casos_Recuperado,Casos_Muerte,Casos_Activos,Tasa_Contagio,Tasa_Recuperacion,Tasa_Muerte,Pais,Ciudad
 2020/03/09,1.0,0.0,0.0,1.0,,,,Colombia,Medellín
 2020/03/11,3.0,0.0,0.0,3.0,2.0000008430533875,0.0,0.0,Colombia,Medellín
 2020/03/14,5.0,0.0,0.0,5.0,0.666667509720765,0.0,0.0,Colombia,Medellín
